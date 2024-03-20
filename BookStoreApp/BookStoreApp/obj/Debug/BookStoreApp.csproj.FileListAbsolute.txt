@@ -1,0 +1,12 @@
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Form1.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Book.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Update.resources
